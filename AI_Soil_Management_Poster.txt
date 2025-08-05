@@ -1,0 +1,59 @@
+Title: Smart Soil Management: Harnessing AI for Optimal Soil Health
+
+Team Name: INNOVATORS
+
+Authors:
+1. Payel Dutta*, Department: B.Tech (ME), Email: payeldutta062005@gmail.com
+2. Triyasha Maity*, Department: B.Tech (ME), Email: triyashamaity7@gmail.com
+3. Siddharth, Department: B.Tech (ME), Email: siddharth22094@gmail.com
+
+----------------------------------------
+INTRODUCTION:
+Artificial Intelligence (AI) is revolutionizing soil management by offering precise, real-time, and scalable solutions to monitor and enhance soil health. Traditional methods are often manual and slow, whereas AI leverages data from sensors, satellites, and drones for faster, more accurate decisions.
+
+AI-based systems assess soil parameters such as moisture, pH, nutrient levels, and contamination. Applications include soil erosion prediction, microbiome analysis, and pollution control, promoting sustainable agriculture.
+
+Challenges remain in data quality, regional variability, and sensor limitations, requiring integrated and interdisciplinary solutions.
+
+----------------------------------------
+OBJECTIVE:
+The goal of this project is to integrate AI technologies to improve soil nutrient analysis, enhancing sustainable farming. By collecting data from various fields, the project aims to develop versatile tools that improve decision-making and land management for farmers.
+
+----------------------------------------
+BACKGROUND:
+With a growing global population and rising climate change issues, traditional soil testing methods are insufficient—being slow, expensive, and outdated. AI offers a fast and accurate alternative using satellite imagery and ground-based sensors.
+
+----------------------------------------
+METHODOLOGY:
+1. Data Collection:
+   - Soil data gathered from field sensors, UAVs, satellite imagery, and lab tests.
+
+2. Preprocessing:
+   - Data cleaned and features like pH, moisture, and nutrients selected for analysis.
+
+3. Modeling:
+   - ML/DL algorithms (SVM, RF, CNN) and geostatistics (kriging) used for prediction/classification.
+
+4. Monitoring & DSS Integration:
+   - AI systems track real-time soil conditions and suggest optimized irrigation/fertilization plans.
+
+5. Validation & Deployment:
+   - Models validated via cross-validation and field trials, then deployed via IoT/mobile platforms.
+
+----------------------------------------
+RESULT:
+AI tools rapidly analyze soil nutrient levels, improving management and fertilizer efficiency. This enhances crop yield and reduces environmental impact compared to traditional methods.
+
+----------------------------------------
+LITERATURE REVIEW:
+1. FAO, "The state of food and agriculture 2017", United Nations.
+2. Goulding, Jarvis & Whitmore, "Optimizing nutrient management for farm systems", Phil. Trans. R. Soc. B, 2008.
+3. Tripathi et al., "Global food availability and functional food security", Elsevier, 2019.
+
+----------------------------------------
+ACKNOWLEDGEMENT:
+We are thankful to our dedicated team members for their hard work, support, and collaboration. Without their commitment, this project would not have been possible.
+
+----------------------------------------
+Poster Theme: AI FOR TACKLING CLIMATE CHANGE
+Sub-theme: Reimagining Expression Through GenAI
